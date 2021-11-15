@@ -1,4 +1,4 @@
-
+<img title="repo views" src="https://viewz-production.up.railway.app/">
 ![GitHub Repo stars](https://img.shields.io/github/stars/code-x-mania/filestreambot?color=blue&style=flat)
 ![GitHub forks](https://img.shields.io/github/forks/code-x-mania/filestreambot?color=green&style=flat)</align>
 ![GitHub contributors](https://img.shields.io/github/contributors/code-x-mania/filestreambot?style=flat)
