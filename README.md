@@ -52,14 +52,15 @@
 
 ## ♢ How to make your own :
 
-### `Either you could locally host or deploy on `[Heroku](https://heroku.com)
+## `Either you could locally host or deploy on `[Heroku](https://heroku.com)
+  
 ## 💜 Heroku
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy/)
 
 <br>
 
-<b> RAILWAY</b>
+## RAILWAY</b>
   
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FCode-X-Mania%2Ffilestreambot&envs=API_HASH%2CAPI_ID%2CFQDN%2CDATABASE_URL%2CBOT_TOKEN%2CHAS_SSL%2CNO_PORT%2CPORT%2COWNER_ID%2COWNER_USERNAME%2CSESSION_NAME%2CUPDATES_CHANNEL&optionalEnvs=FQDN&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&FQDNDesc=ENTER+YOUR+RAILWAY+APP+URL&DATABASE_URLDesc=Get+it+from+mongodb.com&BOT_TOKENDesc=Get+it+from+%40botfather&HAS_SSLDesc=Don%27t+touch+this&NO_PORTDesc=keep+default+value.&PORTDesc=Default+value+is+8080&OWNER_IDDesc=Your+telegram+id+%7C+get+it+from+%40username_to_id_bot&OWNER_USERNAMEDesc=Your+telegram+username+without+%40&SESSION_NAMEDesc=Keep+default+or+enter+your+name&UPDATES_CHANNELDesc=ENTER+CHANNEL+USERNAME+WITHOUT+%40+++%7C++None+if+you+don%27t+want&BOT_TOKENDefault=also+add+bot+to+bin+channel+and+updates+channel+if+any&HAS_SSLDefault=True&NO_PORTDefault=False&PORTDefault=8080&OWNER_USERNAMEDefault=codexmania&SESSION_NAMEDefault=filetolinkprobot&UPDATES_CHANNELDefault=codexmania&referralCode=ADARSH)
 <p>
@@ -67,7 +68,7 @@
 
 
 
-#### `♢ Click on This Drop-down and get more details`
+## `♢ Click on This Drop-down and get more details`
 
 <br>
 <details>
@@ -199,16 +200,16 @@ To get an instant stream link, just forward any media to the bot and boom, its f
   ![image](https://user-images.githubusercontent.com/88939380/137128326-059f9c53-b3d0-40f0-8484-b17709fbcc11.png)
 
 
-### Channel Support
+## Channel Support
 `Bot also Supports with Channels. Just add bot Channel as Admin. If any new file comes in Channel it will edit it with **Get Download Link** Button.` </details>
 
-### 🔷 Credits : 
+## 🔷 Credits : 
 
 - [Adarsh Goel_(me)](https://t.me/codexmania)
 - [EverythingSuckz](https://github.com/EverythingSuckz) 
 - `Everyone In This Journey !`
 
-### Contributions By percentage
+## Contributions By percentage
   
  - [Adarsh Goel_(me)](https://t.me/codexmania) ` made changes to existing repo plus  I added new features😎 85% code`
  - [EverythingSuckz](https://github.com/EverythingSuckz) `  He owns  10% code`
