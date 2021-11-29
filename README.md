@@ -82,15 +82,7 @@ Press the below button to  deploy on Heroku
 `/status  - to know how many users are using the bot` <br>
 `/broadcast - To send message to all the users using the bot`
 
-🚀Features<p>
-```
-💥Superfast⚡️ download and stream links.
-💥No ads in generated links.
-💥Superfast interface.
-💥Along with the links you also get file information like name,size ,etc.
-💥Updates channel Support.
-💥Mongodb database support for broadcasting.
-```
+
   
   <b>Host it on VPS Locally :</b></summary>
 
