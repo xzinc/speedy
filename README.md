@@ -2,7 +2,7 @@
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/code-x-mania/filestreambot?color=yellow)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/filetoliprobot)
-[![Telegram -Bot](https://img.shields.io/badge/Telegram-Bot-purple.svg)](https://t.me/filetoliprorobot)
+[![Telegram -Bot](https://img.shields.io/badge/Telegram-Bot_2-purple.svg)](https://t.me/filetoliprorobot)
 ![GitHub](https://img.shields.io/github/license/code-x-mania/filestreambot)
 [![Bot Support](https://img.shields.io/badge/File%20Stream%20Bot-support%20group-blue)](https://t.me/codexmaniachat)
 [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-blue.svg)](https://t.me/codexmania)
