@@ -37,7 +37,7 @@
 <hr>
 
 
-
+# I SUGGEST YOU TO USE IT'S PRO VERSION WITH BETER FEATURES [CLICK HERE](https://github.com/code-x-mania/filestreambotpro)
 ## 🍁 About This Bot :
 
 ![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
