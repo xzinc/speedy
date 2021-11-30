@@ -78,9 +78,10 @@ Press the below button to  deploy on Heroku
 🐬USER COMMANDS<p>
 `/start - To start using me` <br>
 `/help  -  To know how to use me`
+`/status - Live Bot usage
 
 🐬ADMIN COMMANDS<p>
-`/status  - to know how many users are using the bot` <br>
+`/users  - to know how many users are using the bot` <br>
 `/broadcast - To send message to all the users using the bot`
 
 
