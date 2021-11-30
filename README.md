@@ -22,6 +22,9 @@
 💥Along with the links you also get file information like name,size ,etc.
 💥Updates channel Support.
 💥Mongodb database support for broadcasting.
+💥Can see current bot usage
+💥Easy To deal with UI
+ 
 ```
     
 ## `Star and fork the repo Before deploying`
@@ -37,8 +40,8 @@
 <hr>
 
 
-# I SUGGEST YOU TO USE IT'S PRO VERSION WITH BETER FEATURES [CLICK HERE](https://github.com/code-x-mania/filestreambotpro)
-## 🍁 About This Bot :
+## I SUGGEST YOU TO REFORK THIS REPO IF YOU HAD FORKED BEFORE 30TH NOVEMBER AS I HAVE MADE MAJOR CHANGES TO IT
+# 🍁 About This Bot :
 
 ![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
 
