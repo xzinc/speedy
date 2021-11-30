@@ -1,7 +1,5 @@
 
-![GitHub Repo stars](https://img.shields.io/github/stars/code-x-mania/filestreambot?color=blue&style=flat)
-![GitHub forks](https://img.shields.io/github/forks/code-x-mania/filestreambot?color=green&style=flat)</align>
-![GitHub contributors](https://img.shields.io/github/contributors/code-x-mania/filestreambot?style=flat)
+
 ![GitHub repo size](https://img.shields.io/github/repo-size/code-x-mania/filestreambot?color=yellow)
 [![Telegram Bot](https://img.shields.io/badge/Telegram-Bot-blue.svg)](https://t.me/filetoliprobot)
 [![Telegram -Bot](https://img.shields.io/badge/Telegram-Bot-purple.svg)](https://t.me/filetoliprorobot)
