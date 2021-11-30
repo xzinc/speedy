@@ -132,7 +132,7 @@ FQDN= Enter Custom domain if any or server ip
   
 `OWNER_USERNAME` : Your telegram username to be displayed in bot  . make one in you dont have.
 
-`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in [Me Telegram](https://t.me/adarshhh0).
+`DATABASE_URL` : MongoDB URI for saving User IDs when they first Start the Bot. We will use that for Broadcasting to them. I will try to add more features related with Database. If you need help to get the URI you can ask in [Telegram](https://t.me/codexmania).
 
  Optional Vars
 
