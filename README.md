@@ -22,9 +22,6 @@
 💥Along with the links you also get file information like name,size ,etc.
 💥Updates channel Support.
 💥Mongodb database support for broadcasting.
-💥Can see current bot usage
-💥Easy To deal with UI
- 
 ```
     
 ## `Star and fork the repo Before deploying`
@@ -40,8 +37,8 @@
 <hr>
 
 
-## I SUGGEST YOU TO REFORK THIS REPO IF YOU HAD FORKED BEFORE 30TH NOVEMBER AS I HAVE MADE MAJOR CHANGES TO IT
-# 🍁 About This Bot :
+
+## 🍁 About This Bot :
 
 ![streaming-Professional-live_1](https://user-images.githubusercontent.com/88939380/137127129-a86fc939-2931-4c66-b6f6-b57711a9eab7.png)
 
@@ -70,18 +67,17 @@ Press the below button to  deploy on Heroku
   
   Press the below button to  deploy on Railway 
   
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FCode-X-Mania%2Fuseless&envs=API_HASH%2CAPI_ID%2CFQDN%2CDATABASE_URL%2CBOT_TOKEN%2CHAS_SSL%2CNO_PORT%2CPORT%2COWNER_ID%2COWNER_USERNAME%2CSESSION_NAME%2CUPDATES_CHANNEL&optionalEnvs=FQDN&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&FQDNDesc=ENTER+YOUR+RAILWAY+APP+URL&DATABASE_URLDesc=Get+it+from+mongodb.com&BOT_TOKENDesc=Get+it+from+%40botfather&HAS_SSLDesc=Don%27t+touch+this&NO_PORTDesc=keep+default+value.&PORTDesc=Default+value+is+8080&OWNER_IDDesc=Your+telegram+id+%7C+get+it+from+%40username_to_id_bot&OWNER_USERNAMEDesc=Your+telegram+username+without+%40&SESSION_NAMEDesc=Keep+default+or+enter+your+name&UPDATES_CHANNELDesc=ENTER+CHANNEL+USERNAME+WITHOUT+%40+++%7C++None+if+you+don%27t+want&BOT_TOKENDefault=also+add+bot+to+bin+channel+and+updates+channel+if+any&HAS_SSLDefault=True&NO_PORTDefault=False&PORTDefault=8080&OWNER_USERNAMEDefault=codexmania&SESSION_NAMEDefault=filetolinkprobot&UPDATES_CHANNELDefault=codexmania&referralCode=ADARSH)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FCode-X-Mania%2Ffilestreambot&envs=API_HASH%2CAPI_ID%2CFQDN%2CDATABASE_URL%2CBOT_TOKEN%2CHAS_SSL%2CNO_PORT%2CPORT%2COWNER_ID%2COWNER_USERNAME%2CSESSION_NAME%2CUPDATES_CHANNEL&optionalEnvs=FQDN&API_HASHDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&API_IDDesc=Get+this+value+from+https%3A%2F%2Fmy.telegram.org&FQDNDesc=ENTER+YOUR+RAILWAY+APP+URL&DATABASE_URLDesc=Get+it+from+mongodb.com&BOT_TOKENDesc=Get+it+from+%40botfather&HAS_SSLDesc=Don%27t+touch+this&NO_PORTDesc=keep+default+value.&PORTDesc=Default+value+is+8080&OWNER_IDDesc=Your+telegram+id+%7C+get+it+from+%40username_to_id_bot&OWNER_USERNAMEDesc=Your+telegram+username+without+%40&SESSION_NAMEDesc=Keep+default+or+enter+your+name&UPDATES_CHANNELDesc=ENTER+CHANNEL+USERNAME+WITHOUT+%40+++%7C++None+if+you+don%27t+want&BOT_TOKENDefault=also+add+bot+to+bin+channel+and+updates+channel+if+any&HAS_SSLDefault=True&NO_PORTDefault=False&PORTDefault=8080&OWNER_USERNAMEDefault=codexmania&SESSION_NAMEDefault=filetolinkprobot&UPDATES_CHANNELDefault=codexmania&referralCode=ADARSH)
  <p><b>Available commands and features:</b>
  
 <p>
  
 🐬USER COMMANDS<p>
 `/start - To start using me` <br>
-`/help  -  To know how to use me`<br>
-`/status - Live Bot usage`
+`/help  -  To know how to use me`
 
 🐬ADMIN COMMANDS<p>
-`/users  - to know how many users are using the bot` <br>
+`/status  - to know how many users are using the bot` <br>
 `/broadcast - To send message to all the users using the bot`
 
 
@@ -120,8 +116,6 @@ BIN_CHANNEL=-100
 SESSION_NAME=Codexmania
 HAS_SSL=True
 FQDN= Enter Custom domain if any or server ip
-OWNER_USERNAME= Your telegram Username example Codexmania
-
 ```
  <b>Vars and Details :</b>
 `API_ID` : Goto [my.telegram.org](https://my.telegram.org) to obtain this.
@@ -154,10 +148,7 @@ OWNER_USERNAME= Your telegram Username example Codexmania
 
 `NO_PORT` : If you don't want your port to be displayed. You should point your `PORT` to `80` (http) or `443` (https) for the links to work. Ignore this if you're on Heroku.
 
-`FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS` 
-
-`OWNER_USERNAME`:   Your telegram Username example Adarsh_goel
-
+`FQDN` :  A Fully Qualified Domain Name if present. Defaults to `WEB_SERVER_BIND_ADDRESS` </details>
 
 <b>How to Use :</b>
 
@@ -182,8 +173,8 @@ To get an instant stream link, just forward any media to the bot and boom, its f
 
 ### Contributions By percentage
   
- - [Adarsh Goel_(me)](https://t.me/codexmania) `😎 85% code`
- - Eyaadh For Megatron `10 % code`
+ - [Adarsh Goel_(me)](https://t.me/codexmania) ` made changes to existing repo plus  I added new features😎 85% code`
+ - [EverythingSuckz](https://github.com/EverythingSuckz) `  He owns  10% code`
  - `All who had helped me with logics - 5%  `
  - `Feel free to contribute 😀`
   
