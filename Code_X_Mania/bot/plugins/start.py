@@ -211,7 +211,7 @@ async def help_handler(bot, message):
             
           reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Any issues?, url="https://t.me/filmyxbot")]
+                [InlineKeyboardButton("Any issues?", url="https://t.me/filmyxbot")]
             ]
         )
     )
